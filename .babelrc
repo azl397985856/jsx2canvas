@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    [
+      "@babel/plugin-transform-react-jsx",
+      {
+        "pragma": "jsx2canvas"
+      }
+    ]
+  ],
+  "presets": ["@babel/preset-env"]
+}
