@@ -7,7 +7,7 @@ if you're famliar with jsx, you can handle it quickly.
 ### demo
 
 ```jsx
-import { Canvas, CImage, CText, jsx2canvas } from "./core.js";
+import { Canvas, CImage, CText, jsx2canvas } from "@duiba/jsx2canvas";
 
 function getCTX() {
   const c = document.getElementById("canvas");
