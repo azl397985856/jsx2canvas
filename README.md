@@ -41,4 +41,19 @@ canvas({
 });
 ```
 
+> .babelrc
+
+```json
+{
+  "plugins": [
+    [
+      "@babel/plugin-transform-react-jsx",
+      {
+        "pragma": "jsx2canvas"
+      }
+    ]
+  ]
+}
+```
+
 ![sample](./screenshots/sample.png)
