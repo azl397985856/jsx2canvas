@@ -2,6 +2,7 @@
   "name": "@duiba/jsx2canvas",
   "version": "0.0.1",
   "private": false,
+  "main": "dist/main.min.js",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/plugin-transform-react-jsx": "^7.2.0",
@@ -12,7 +13,8 @@
     "webpack-dev-server": "^3.1.10"
   },
   "scripts": {
-    "dev": "webpack-dev-server --open"
+    "dev": "webpack-dev-server --config webpack.dev.config.js --open",
+    "build": "webpack --config webpack.prod.config.js"
   },
   "dependencies": {
     "@babel/polyfill": "^7.0.0"
