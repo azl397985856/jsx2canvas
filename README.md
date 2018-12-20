@@ -57,3 +57,14 @@ canvas({
 ```
 
 ![sample](./screenshots/sample.png)
+
+## dev
+
+```
+git clone https://github.com/azl397985856/jsx2canvas
+
+npm i
+
+npm run dev
+
+```
