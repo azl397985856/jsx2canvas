@@ -4,7 +4,7 @@ sytax sugar of canvas to help you build canvas easily.
 
 if you're famliar with jsx, you can handle it quickly.
 
-### demo
+### demo 😁
 
 ```jsx
 import { Canvas, CImage, CText, jsx2canvas } from "@duiba/jsx2canvas";
@@ -58,7 +58,47 @@ canvas({
 
 ![sample](./screenshots/sample.png)
 
-## dev
+### API 🐂
+
+now Only `Canvas`, `CImage` and `CText` are supported.
+
+they are called `class`.
+
+#### Canvas
+
+Must be Outermost.
+
+#### CImage
+
+- zIndex (Number)
+
+- center (Boolean)
+
+- middle (Boolean)
+
+- src (String)
+
+#### CText
+
+- zIndex (Number)
+
+- center (Boolean)
+
+- middle (Boolean)
+
+- text (String)
+
+### Plan ⌚️
+
+- v1.0
+
+more props~ 😄 eg: border, onClick, etc
+
+- v2.0
+
+more classes 😃 eg: Animation, etc
+
+#### dev 💻
 
 ```
 git clone https://github.com/azl397985856/jsx2canvas
