@@ -4,6 +4,34 @@ sytax sugar of canvas to help you build canvas easily.
 
 if you're famliar with jsx, you can handle it quickly.
 
+### Motivation
+
+I wanna put images and text together, as such compounding images and text.
+
+before that, I simply do it by importing a external library called `html2canvas`.
+
+everything goes fine, util one day. an unusual/weird problem arised.
+
+and `htmlcavans` is a little diffult to grap for me.
+
+So I change my mind to build my own out of three reasons below.
+
+- htmlcavans is a little big for me.
+
+I don't want covert all(mostly) css property, it's useless in my case.
+
+- html2canvas is too slow
+
+jsx2canvas base on jsx, jsx2canvas compile jsx to commands which can be applied on `canvas`.
+
+10x faster than `html2canvas`
+
+- easy to track and debug
+
+what you get is toughly a list of commond. you can check it by logging to console.
+
+you can even build custom logic easily.
+
 ### demo 😁
 
 ```jsx
