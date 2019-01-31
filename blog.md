@@ -62,7 +62,7 @@ draw(canvas)
 
 看起来就是这样的：
 
-https://mdn.mozillademos.org/files/228/canvas_ex1.png
+![]([https://mdn.mozillademos.org/files/228/canvas_ex1.png)
 
  对于使用jsx2canvas来说，有了这些知识就足够了，是不是很简单？
  
@@ -118,7 +118,7 @@ canvas({
 
 渲染结果是：
 
-https://github.com/azl397985856/jsx2canvas/raw/master/screenshots/sample.png
+!()[https://github.com/azl397985856/jsx2canvas/raw/master/screenshots/sample.png]
 
 
 
