@@ -118,7 +118,7 @@ canvas({
 
 渲染结果是：
 
-!()[https://github.com/azl397985856/jsx2canvas/raw/master/screenshots/sample.png]
+![](https://github.com/azl397985856/jsx2canvas/raw/master/screenshots/sample.png)
 
 
 
