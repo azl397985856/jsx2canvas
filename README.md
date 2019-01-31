@@ -4,6 +4,8 @@ sytax sugar of canvas to help you build canvas easily.
 
 if you're famliar with jsx, you can handle it quickly.
 
+more: https://github.com/azl397985856/jsx2canvas/blob/master/blog.md
+
 ### Motivation
 
 I wanna put images and text together, as such compounding images and text.
