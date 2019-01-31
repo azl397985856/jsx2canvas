@@ -62,7 +62,7 @@ draw(canvas)
 
 看起来就是这样的：
 
-![]([https://mdn.mozillademos.org/files/228/canvas_ex1.png)
+![]([https://user-gold-cdn.xitu.io/2019/1/31/168a2b540f94e37c?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 
  对于使用jsx2canvas来说，有了这些知识就足够了，是不是很简单？
  
